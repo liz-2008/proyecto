@@ -8,11 +8,19 @@ body {
 }
 
 /* Menú de Navegación */
-header {
-    background-color: #05668d; /* Azul oscuro */
+#logo{justify-content:space-between; 
+    display: flex;
+    }
+
+
+header { 
+    background-color: #44dffa; /* Azul oscuro */
     color: white;
     padding: 15px 0;
     text-align: center;
+    display: flex; 
+    justify-content:space-between;
+    align-items: center;
 }
 
 .menu {
@@ -69,7 +77,10 @@ header {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+ img{margin-right: 40px;
 
+ }
+ 
 .sobre-nosotros img {
     max-width: 80%;
     border-radius: 10px;

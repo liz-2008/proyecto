@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f0fdf4; /* Fondo verde claro */
+    background-color: #f0fdf4; 
 }
 
 /* Menú de Navegación */
@@ -14,7 +14,7 @@ body {
 
 
 header { 
-    background-color: #44dffa; /* Azul oscuro */
+    background-color: #44dffa; 
     color: white;
     padding: 15px 0;
     text-align: center;
@@ -43,7 +43,7 @@ header {
 }
 
 .menu a:hover {
-    color: #02c39a; /* Verde brillante */
+    color: #02c39a; 
 }
 
 /* Banner */
@@ -72,7 +72,7 @@ header {
 .sobre-nosotros {
     text-align: center;
     padding: 2rem 1rem;
-    background: #f0fff4; /* Verde muy claro */
+    background: #f0fff4;
     margin: 1rem 0;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -94,7 +94,7 @@ header {
     justify-content: center;
     gap: 20px;
     padding: 2rem 1rem;
-    background: #e0f7fa; /* Azul suave */
+    background: #e0f7fa; 
 }
 
 .servicio {
@@ -104,7 +104,7 @@ header {
     padding: 20px;
     max-width: 300px;
     text-align: center;
-    border: 2px solid #02c39a; /* Borde verde brillante */
+    border: 2px solid #02c39a; 
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
@@ -114,7 +114,7 @@ header {
 }
 
 .servicio h3 {
-    color: #05668d; /* Azul oscuro */
+    color: #05668d;
     font-size: 1.5rem;
     margin: 0;
 }
@@ -133,7 +133,7 @@ header {
 /* Reseñas */
 .reseñas {
     padding: 2rem 1rem;
-    background: #f9fbe7; /* Verde amarillento suave */
+    background: #f9fbe7; 
     margin: 1rem 0;
     text-align: center;
     border-radius: 8px;
@@ -157,7 +157,7 @@ header {
 
 /* Pie de Página */
 footer {
-    background: #05668d; /* Azul oscuro */
+    background: #05668d; 
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -182,5 +182,5 @@ footer ul li a {
 }
 
 footer ul li a:hover {
-    color: #02c39a; /* Verde brillante */
+    color: #02c39a; 
 }
